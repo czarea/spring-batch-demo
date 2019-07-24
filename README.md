@@ -161,7 +161,7 @@ public class JobCompletionNotificationListener extends JobExecutionListenerSuppo
 ```
 
 
-[代码地址](https://note.youdao.com/)
+[代码地址](https://github.com/czarea/spring-batch-demo)
 
 
 ## 3.总结
@@ -169,4 +169,5 @@ spring batch 如果存在统计，二次使用中间数据，不是很友好，[
 
 
 >参考一：[spring batch reference](https://docs.spring.io/spring-batch/4.1.x/reference/html/index-single.html)
+
 >参考二：[spring batch service](https://spring.io/guides/gs/batch-processing/)
